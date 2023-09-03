@@ -1,0 +1,9 @@
+@import "../../styles/index.css";
+
+
+.keyboard{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+}

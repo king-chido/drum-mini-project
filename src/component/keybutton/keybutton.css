@@ -1,0 +1,12 @@
+@import "../../styles/var.css";
+
+
+
+button{
+    width: 60px;
+    height:70px ;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+}

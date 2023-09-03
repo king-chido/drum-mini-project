@@ -1,0 +1,40 @@
+@import "../../styles/var.css";
+
+/* .divcontrol{
+    
+} */
+
+
+.changeBtn{
+    width: 150px;
+    height: 40px;
+    border-color: purple;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.changeBtn:hover{
+    color: white;
+    background-color: var(--clr-primary--3);
+    border-color: black;
+    border-radius: 5px;
+}
+
+.input{
+    cursor: pointer;
+}
+
+.powerBtn{
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: purple;
+}
+
+.powerBtn:hover{
+    color: white;
+    background-color: var(--clr-primary--3);
+    border-color: black;
+    border-radius: 5px;
+}
